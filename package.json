@@ -30,9 +30,11 @@
   "homepage": "https://github.com/mu-ts/router#readme",
   "dependencies": {
     "@mu-ts/configurations": "^2.0.3",
-    "@mu-ts/logger": "^3.0.6"
+    "@mu-ts/logger": "^3.0.6",
+    "@mu-ts/modeling": "^1.0.0"
   },
   "devDependencies": {
+    "@types/aws-lambda": "^8.10.46",
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.7",
     "@types/node": "^11.13.18",
